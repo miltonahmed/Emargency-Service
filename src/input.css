@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@theme{
+  --font-hindMadurai:"Hind Madurai", sans-serif;
+  --font-roboto:"Roboto", sans-serif;
+  --banner_bg:90deg, #013223 0%, #006747 49.99%, #013223 100%;
+  
+}
